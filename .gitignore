@@ -1,0 +1,10 @@
+# .gitignore for C# projects
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.exe
+*.dll
+*.pdb
+*.cache
